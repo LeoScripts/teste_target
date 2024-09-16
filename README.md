@@ -21,4 +21,5 @@ teremos os seguintes resultados.
 Menor valor de faturamento: 1.5
 Maior valor de faturamento: 1000
 Dias acima da média: 4
-```  
+```
+4. [Resposta](./R4.sql) = concluida
