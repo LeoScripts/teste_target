@@ -23,3 +23,4 @@ Maior valor de faturamento: 1000
 Dias acima da média: 4
 ```
 4. [Resposta](./R4.sql) = concluida (criação das tabelas, inserts e query)
+5. [Resposta](./R5.js) = o Caminihão estara mais proximo de Ribeirão Preto
