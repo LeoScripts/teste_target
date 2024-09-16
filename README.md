@@ -1,3 +1,3 @@
 # teste_target
 
-[Resposta 1](./R1.js)
+[Resposta 1](./R1.js) = 77
